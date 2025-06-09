@@ -6,7 +6,38 @@
     <title>Web Structure</title>
 </head>
 <body>
+    <h1> Header of my Website.</h1>
+    <nav>
+        <button><a href="#" style="color:black;margin: 0 10px;">Home</a></button>
+       <button> <a href="#" style="color:black;margin: 0 10px;">About</a></button>
+        <button><a href="#" style="color:black;margin: 0 10px;">Contact</a></button>
+    </nav>
+    <main>
+        <h1>This is my First Website</h1>
+        <p>This is my main Content Area</p>
+        <div>
+            <div>
+                <img src="C:\Users\dhenz\Desktop\June 9\images\aespa mv.gif" width="600" height="400">
+                <p>Aespa</p>
+            </div>
+           
+            <div>
+                <img src="C:\Users\dhenz\Desktop\June 9\images\aespa.png.png" width="600" height="400">
+                <p>Aespa</p>
+            </div>
+            
+            <div>
+                <img src="C:\Users\dhenz\Desktop\June 9\images\aespa.jpeg.png" width="600" height="400">
+                <p>Aespa</p>
+            </div>
 
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 my website. All right reserved.</p>
+    </footer>
+</header>
 
 </body>
 </html>
+
